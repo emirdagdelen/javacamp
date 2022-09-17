@@ -100,6 +100,7 @@ public class RecapDemo1 {
 		
 		else
 			System.out.println("ARKADAŞ SAYILAR DEĞİL");}
+		//Emir Dağdelen
 		
 		
 		
