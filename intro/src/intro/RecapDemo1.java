@@ -103,6 +103,18 @@ public class RecapDemo1 {
 		//Emir Dağdelen
 		
 		
+		//sayı bulma
+		
+		int[] sayılar = new int[] {1,3,5,7,9};
+		int aranacak = 5 ;
+		for (int sayı:sayılar) {
+			if(sayı==aranacak) {
+				System.out.println("we found it");
+				break;
+			}
+		}
+		
+		
 		
 		
 		
