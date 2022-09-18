@@ -111,6 +111,7 @@ public class RecapDemo1 {
 			if(sayı==aranacak) {
 				System.out.println("we found it");
 				break;
+				// ilk hafta ödevi bitti
 			}
 		}
 		
